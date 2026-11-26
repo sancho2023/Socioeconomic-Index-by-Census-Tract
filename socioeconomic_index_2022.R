@@ -1,9 +1,5 @@
 ##############################################################################
 # SOCIOECONOMIC INDEX BY CENSUS TRACT - PRINCIPAL COMPONENT ANALYSIS - 2022
-# São José do Rio Preto, São Paulo, Brazil (IBGE municipality code 3549805)
-#
-# Author : Sancho Pedro Xavier (School of Public Health, University of São Paulo)
-# ORCID  : 0000-0001-9493-4098
 #
 # Description:
 #   Builds a socioeconomic index for each census tract from 2022 Brazilian
