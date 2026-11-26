@@ -4,13 +4,6 @@ R code to build a census-tract-level socioeconomic index, using variables from t
 
 The index summarises income, education and household characteristics into two interpretable components (**income** and **infrastructure**) and one combined **socioeconomic index**. Tracts are then classified into four socioeconomic levels for mapping and for spatial epidemiological analyses.
 
-## Repository contents
-
-| File | Description |
-|---|---|
-| `socioeconomic_index_2022.R` | Full analysis script, commented in English |
-| `indicador_socioeconomico_2022_comentado.R` | Same analysis, with detailed explanations in Portuguese |
-
 ## Variables
 
 | Variable | Description |
